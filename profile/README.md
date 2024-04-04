@@ -30,20 +30,32 @@ We're excited to see what you Klect with our apps!  ✨
 
 ### Typescript
 
-Todo: explain why 
+- Strongly Typed: Typescript adds static type checking to JavaScript, which helps catch errors early in the development process and improves code maintainability.
+- Improved Developer Experience: Features like code completion and refactoring make development faster and more enjoyable.
+- Large Community & Ecosystem: Typescript benefits from a large and active community, with a vast array of libraries and frameworks available.
 
-### Tauri 
+### Tauri
 
-Todo: explain why 
+- Native Desktop Apps with Web Technologies: Tauri allows us to build performant, cross-platform desktop applications using familiar web technologies like HTML, CSS, and Javascript.
+- Reduced Development Time: By leveraging existing web skills, Tauri can streamline development and reduce time to market.
+- Flexibility: Tauri integrates well with various frontend frameworks like React or Vue.js, offering flexibility in building the UI.
 
-### Rust 
+### Rust
 
-Todo: explain why 
+- Memory Safety & Performance: Rust enforces memory safety through its ownership system, preventing crashes caused by memory leaks and dangling pointers. It also compiles to highly performant native code.
+- Concurrency Features: Rust provides excellent support for concurrency with features like channels and mutexes, simplifying the development of concurrent applications.
+- Growing Ecosystem: While still evolving, Rust boasts a rapidly growing community and rich ecosystem of libraries.
 
-### Bun 
+### Bun
 
-Todo: explain why 
+- Speed & Efficiency: Bun is an incredibly fast JavaScript runtime designed for performance. It boasts faster startup times and lower memory usage compared to traditional Node.js.
+- Zero-Configuration: Bun requires minimal configuration, streamlining the development process. It includes a built-in package manager and development server.
+- Modern JavaScript Features: Bun natively supports modern JavaScript features like modules and top-level await, eliminating the need for transpilation.
 
-### Kaioken 
+### Kaioken
 
-Todo: explain why 
+- A Lightweight JavaScript Rendering Library
+- Similar to React: Kaioken offers a familiar development experience for those familiar with React, using JSX syntax and a component-based architecture.
+- Focus on Simplicity and Performance: Unlike React, Kaioken prioritizes a smaller footprint over an exhaustive feature set. This makes it ideal for performance-critical applications or those targeting low-powered devices.
+- Modern Feature Integration: Kaioken embraces modern features like the built-in Zustand-based Store API for state management.
+- Open Source & Future-Oriented: Being open-source, Kaioken welcomes contributions and is constantly evolving, with a roadmap that includes server-side rendering capabilities.
