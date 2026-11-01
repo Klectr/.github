@@ -28,7 +28,7 @@ Lessons, scheduling, and progress tracking in one place — built for a real hom
 
 `React` · `TypeScript` · `Supabase` · [Source](https://github.com/Klectr/zlern)
 
-### [Zlorb](https://github.com/ArmstrongOSS/zlorb) — hands-free deploys
+### [Zlorb](https://zlorb.klectr.dev) — hands-free deploys
 
 A lightweight CI/CD daemon written in Rust. It watches your git repos, fast-forward pulls when they change, and runs your build — so deploying becomes something you stop thinking about.
 
