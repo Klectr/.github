@@ -6,9 +6,9 @@ Klectr is the professional home of Triston Armstrong — a contract engineer who
 
 ## Products
 
-- **[Zimer](https://github.com/Klectr/zimer)** — Self-hostable time tracker. A Toggl alternative you own. Bun + HTMX + SQLite.
-- **[Homeschool Planner](https://github.com/Klectr/homeschool-planner)** — Lesson planning and tracking for homeschool families.
-- **[invoice-404](https://github.com/Klectr/invoice-404)** — Custom 404 page for Klectr invoice subdomains.
+- **[Zimer](https://zimer.klectr.dev)** — Time tracking for invoicing. Timer to invoice in two clicks; self-host free forever, or use the hosted version.
+- **[Zlern](https://zlern.com)** — Homeschool planning for families. Lessons, scheduling, and progress tracking in one place.
+- **[Zlorb](https://github.com/ArmstrongOSS/zlorb)** — A lightweight Rust CI/CD daemon. Watches your git repos, fast-forward pulls, and builds on change — hands-free deploys.
 
 ## Contract Work
 
@@ -20,4 +20,4 @@ Bun · TypeScript · HTMX · SQLite · Rust · Tauri
 
 ---
 
-klectr.dev
+[klectr.dev](https://klectr.dev) · help@klectr.dev
