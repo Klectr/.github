@@ -34,6 +34,12 @@ A lightweight CI/CD daemon written in Rust. It watches your git repos, fast-forw
 
 `Rust` · `systemd` · [Source](https://github.com/ArmstrongOSS/zlorb)
 
+### [Zlab](https://github.com/Klectr/zlab) — an infinite canvas for your ideas
+
+A visual organization tool: notes, text, shapes, and images on an infinite canvas. Everything lives locally, with import/export when you need it.
+
+`Tauri` · `TypeScript` · [Source](https://github.com/Klectr/zlab)
+
 ---
 
 ## Contract work
