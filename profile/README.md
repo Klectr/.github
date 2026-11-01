@@ -40,9 +40,9 @@ A visual organization tool: notes, text, shapes, and images on an infinite canva
 
 `Tauri` · `TypeScript` · [Source](https://github.com/Klectr/zlab)
 
-### [Read Thai](https://thai.klectr.dev) — learn to read Thai
+### [Thai Resources](https://thai.klectr.dev) — my resources for reading Thai
 
-Ten minutes every morning: a primer that's free forever, weekly printable worksheets, and short lessons — published by a learner, for learners.
+The lessons and worksheets I'm using to learn to read Thai, published as I go: a primer that's free forever, weekly printable worksheets, and short lessons.
 
 [Source](https://github.com/Klectr/thai)
 
